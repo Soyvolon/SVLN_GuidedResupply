@@ -1,9 +1,9 @@
 # Guided Resupply
 > A simple mod by Soyvolon
 
-[**Steam Workshop Link**](https://steamcommunity.com/sharedfiles/filedetails/?id=2705711252)
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2705711252" target="_blank"><b>Steam Workshop Link</b></a>
 
-[Showcase Video](https://youtu.be/G-F0zsfaByA)
+<a href="https://youtu.be/G-F0zsfaByA" target="_blank">Showcase Video</a>
 
 ## Adding the Weapon Via Script
 > Add the guided resupply launcher to any vehicle with a simple script.
