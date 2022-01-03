@@ -1,7 +1,7 @@
 # Guided Resupply
 > A simple mod by Soyvolon
 
-[**Steam Workshop Link**]()
+[**Steam Workshop Link**](https://steamcommunity.com/sharedfiles/filedetails/?id=2705711252)
 
 [Showcase Video](https://youtu.be/G-F0zsfaByA)
 
