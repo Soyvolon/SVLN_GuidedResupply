@@ -3,6 +3,8 @@
 
 [**Steam Workshop Link**]()
 
+[Showcase Video](https://youtu.be/G-F0zsfaByA)
+
 ## Adding the Weapon Via Script
 > Add the guided resupply launcher to any vehicle with a simple script.
 
